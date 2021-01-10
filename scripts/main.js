@@ -191,6 +191,11 @@ $(function() {
             "Goblin",
             "Hobgoblin",
             "Shoony",
+            "Tengu",
+            "Ratfolk",
+            "Orc",
+            "Kobold",
+            "Catfolk",
         ],
 
         dclass: [
@@ -206,6 +211,10 @@ $(function() {
             "Ranger",
             "Sorcerer",
             "Alchemist",
+            "Swashbuckler",
+            "Witch",
+            "Investigator",
+            "Oracle",
         ],
 
         location: [
