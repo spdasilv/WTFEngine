@@ -736,6 +736,7 @@ $(function() {
             "isn't technically alive anymore",
             "is convinced they're always being left out",
             "doesn't speak a word of common",
+            "kicked an orphan for for fun of it",
 
         ],
 
